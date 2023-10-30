@@ -1,2 +1,3 @@
 # CodeAlpha_Stock_price_prediction
- This my 1st task for codealpha internship
+ This is my 1st task for codealpha internship
+ I coded this model using Python
